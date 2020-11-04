@@ -133,3 +133,6 @@ dmypy.json
 
 # DS_Store
 .DS_Store
+
+# HAR Dataset folder
+/HARDataset/*
