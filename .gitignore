@@ -136,3 +136,6 @@ dmypy.json
 
 # txt files
 *.txt
+
+# notes files
+numpy_refresher.py
