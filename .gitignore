@@ -139,3 +139,6 @@ dmypy.json
 
 # notes files
 numpy_refresher.py
+
+# movie files
+*.m4v
