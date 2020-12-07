@@ -514,4 +514,4 @@ x.ravel()
 # also change the parent array
 
 
-# ok rest was minor things - accessing help etc etc 
+# ok rest was minor things - accessing help etc etc a
